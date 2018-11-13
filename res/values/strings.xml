@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BZ_Database</string>
+    <string name="Button_Przejdz_Do_Wyszukania">Odczyt</string>
+    <string name="Button_Przejdz_Do_Zapisu">Zapisz</string>
+</resources>
